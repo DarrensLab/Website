@@ -1,0 +1,12 @@
+#structure{
+    display:flex;
+    flex-direction: column; 
+}
+.bar
+{
+    padding: 100px; height:10px;
+}
+.form
+{
+    height:10px;
+}
