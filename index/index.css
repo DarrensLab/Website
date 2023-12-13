@@ -6,10 +6,17 @@ body
 {
     background-color:rgb(176,196,222);
 }
+.logo
+{
+   
+   padding-left: 30px;
+   
+    
+}
 .bar{
     width: 1853px;
     height: 90px;
-    background-color: grey;
+    background-color: rgb(182,184,182)
 }
 
 .bar2
@@ -20,7 +27,7 @@ body
 }
 .bar2textcolor
 {
-    
+    padding-top:20px;
     padding-left:50px;
     color:white ;
 }
@@ -33,9 +40,9 @@ body
 }
 .main
 {
-    width:10px;
-    height:10px;
-    background-color: rgb(104, 104, 151);
+    width:1853px;
+    height:1000px;
+    background-color: rgb(89, 128, 173);
     display: flex;
     flex-direction: row;
             
@@ -70,14 +77,51 @@ height:230px;
     
     padding-right: 1000px;
     margin-left: 125px;
-    margin-top:30px;
-    padding-left: 20px;
+    margin-top:0px;
+    padding-left: 0px;
+    margin-bottom: 20px;
+    padding-bottom: 0px;
+    
+    
 }
-.footer
+
+.footer1
 {
+    
     width: 1853px;
-    height:40px;
+    height: 40px;
     background-color: rgb(22, 22, 22);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    
 }
+.footer2
+{
+    
+    width: 1853px;
+    height: 50px;
+    background-color: rgb(74, 85, 121);
+    display: flex;
+    flex-direction: row;
+    
+}
+.footer1text
+{
+    padding-top:10px;
+    padding-left:850px;
+    color: white;
+}
+.footer2text
+{
+    padding-top:10px;
+    padding-left:30px;
+    color: white;
+}
+.footer3text
+{
+    padding-top:10px;
+    padding-left:1600px;
+    color: white;
+}
+
+
