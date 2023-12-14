@@ -3,6 +3,14 @@ body
     background-color:rgb(182,184,182);
 }
 
+.secondBg{ 
+    width: 1900px;
+    height: 828px;
+    background-color: rgba(113, 155, 168);
+    position: fixed;
+    position: ;
+}
+
 .topBanner{
     width: 1900px;
     height: 90px;
@@ -19,7 +27,7 @@ body
 
 .sideBar{
     width: 198px;
-    height: 828px;
+    height: 830px;
     background-color: rgba(36, 58, 78);
 }
 
