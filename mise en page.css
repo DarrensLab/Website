@@ -1,0 +1,30 @@
+body
+{
+    background-color:rgb(182,184,182);
+}
+
+.topBanner{
+    width: 1900px;
+    height: 90px;
+    background-color: rgb(182,184,182);
+    margin: 15px;
+}
+
+.subBanner{
+    width: 1900px;
+    height: 50px;
+    background-color: rgb(54, 54, 54);
+
+}
+
+.sideBar{
+    width: 198px;
+    height: 828px;
+    background-color: rgba(36, 58, 78);
+}
+
+.bottomBar {
+    width: 1900px;
+    height: 43px;
+    background-color: rgba(101, 116, 117,);
+}
